@@ -21,11 +21,11 @@ mvn --version
 
 # testng version 7.8.0
 
-# Required Dependency to run:
- WebDriverManager
- Selenium
- TestNG
-# Installations:
+## Required Dependency to run:
+# WebDriverManager
+#Selenium
+# TestNG
+## Installations:
 To clone the repository git clone https://github.com/donacj/TestFramework
 
 # Architecture of framework:
