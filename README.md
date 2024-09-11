@@ -4,22 +4,22 @@ This repository is created to upload Selenium Automation Tasks using Java.
 
 # Task Description:
 Task 01 Description:
--Task 02 Description:
+Task 02 Description:
 Task 03 Description:
 # Note on This Selenium Java Automation Tasks
 Added TestNG
 Implemented Assert statements
 Implemented WebDriverWait (explicit waits).
 ## Required Software to Install:
- java version 17
+# java version 17
 java --version
- git version 2.40.1
+# git version 2.40.1
 git --version
- maven version 3.9.2
+# maven version 3.9.2
 mvn --version
-selenium version 4.11.0
+# selenium version 4.11.0
 
-testng version 7.8.0
+# testng version 7.8.0
 
 # Required Dependency to run:
  WebDriverManager
